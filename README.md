@@ -1,2 +1,3 @@
 # tpcl
- code for Terpinc Letters
+ 
+ Code for Terpinc Letters project.
